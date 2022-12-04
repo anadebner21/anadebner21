@@ -2,7 +2,7 @@
 
 - 👀 Tenho interesse em ingressar no meu primeiro emprego como dev-junior, para que eu possa aprender mais e crescer na área. 
 - 🌱 Atualmente estou terminando meus estudos no Instituto Federal Do Paraná, no curso técnico em informática. 
-- 👩‍💻 Estou aprendendo PHP, o qual no presente, momento tenho usado para desenvolver meu sistema de gerencialmento para microempresas de climatização como projeto de TCC. 
+- 👩‍💻 Estou aprendendo PHP, o qual no presente momento, tenho usado para desenvolver meu sistema de gerencialmento para microempresas de climatização como projeto de TCC. 
 - 📫 Acredito no grande poder da tecnologia.
 <div align="center">
   <a href="https://github.com/rafaballerini">
