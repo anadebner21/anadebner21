@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @anadebner21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### OI, eu sou Ana Paula Debner 👋 
+
+- 👀 Tenho interesse de ingressar no meu primeiro emprego como dev-junior, para que eu possa aprender mais e crescer na área. 
+- 🌱 Atualmente estou terminando meus estudos no Instituto Federal Do Paraná, no curso técnico em informática. 
+- 👩‍💻 Estou aprendendo PHP, o qual no presento, momento tenho usado para desenvolver meu sistema de gerencialmento para microempresas de climatização como projeto de TCC. 
+- 📫 Acredito no grande poder da tecnologia.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anadebner21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
