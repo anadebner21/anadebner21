@@ -1,6 +1,6 @@
-### OI, eu sou Ana Paula Debner 👋 
+### OI, eu sou Ana Paula Debner 👋
 
-- 🌱 Atualmente, estou terminando meus estudos no Instituto Federal Do Paraná, no curso técnico em informática. 
+- 🌱 Sou formada em técnico em infomática pelo Instituto Federal Do Paraná (IFPR), com foco em desenvolvimento de sitemas.      
 - 👩‍💻 Aprendendo PHP, o qual no presente momento, tenho usado para desenvolver meu sistema de gerencialmento para microempresas de climatização como projeto de TCC. 
 - 📫 Acredito no grande poder da tecnologia.
 <div align="center">
