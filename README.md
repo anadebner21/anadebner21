@@ -1,7 +1,7 @@
 ### OI, eu sou Ana Paula Debner 👋
 
-- 🌱 Sou formada em técnico em infomática pelo Instituto Federal Do Paraná (IFPR), com foco em desenvolvimento de sitemas.      
-- 👩‍💻 Aprendendo PHP, o qual no presente momento, tenho usado para desenvolver meu sistema de gerencialmento para microempresas de climatização como projeto de TCC. 
+- 🌱 Sou formada em técnico em infomática pelo Instituto Federal Do Paraná (IFPR), com foco em desenvolvimento de sistemas.      
+- 👩‍💻 Maior projeto desenvolvido até o momento, foi meu sistema de gerencialmento para microempresas de climatização como projeto de TCC. 
 - 📫 Acredito no grande poder da tecnologia.
 <div align="center">
   <a href="https://github.com/anadebner21">
