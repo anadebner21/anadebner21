@@ -1,7 +1,6 @@
 ### OI, eu sou Ana Paula Debner 👋
-
+- 👩‍💻 Licencianda em Computação pela Universidade Tecnológica do Paraná (UTFPR) 
 - 🌱 Sou formada em técnico em infomática pelo Instituto Federal Do Paraná (IFPR), com foco em desenvolvimento de sistemas.      
-- 👩‍💻 Maior projeto desenvolvido até o momento, foi meu sistema de gerencialmento para microempresas de climatização como projeto de TCC. 
 - 📫 Acredito no grande poder da tecnologia.
 
  
